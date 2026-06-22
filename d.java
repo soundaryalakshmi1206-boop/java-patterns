@@ -13,4 +13,9 @@ import java.util.Scanner;
     }
     
 }
-// so here we using the i is the output so its like the 1 1 2 2 based on the n//
+// so here we using the i is the output so its like the 1 1 2 2 based on the n
+/* 1111
+   2222
+   3333
+   4444
+ */
