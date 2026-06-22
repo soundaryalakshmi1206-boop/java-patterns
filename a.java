@@ -9,3 +9,14 @@ public class a {
         
     }
 }
+/*
+Input:
+5
+
+Output:
+Salary Credited Successfully  for  Employee Id:1
+Salary Credited Successfully  for  Employee Id:2
+Salary Credited Successfully  for  Employee Id:3
+Salary Credited Successfully  for  Employee Id:4
+Salary Credited Successfully  for  Employee Id:5
+*/
