@@ -15,7 +15,7 @@ import java.util.Scanner;
     
 }
 /*
- A B C D
- A B C D
- A B C D
+ A 
+ A B 
+ A B C 
  A B C D*/
