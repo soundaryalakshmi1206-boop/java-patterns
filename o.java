@@ -16,3 +16,14 @@ import java.util.Scanner;
     }
     
 }}
+/*
+Input:
+5
+
+Output:
+*****
+*   *
+*   *
+*   *
+*****
+ */
