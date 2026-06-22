@@ -22,4 +22,16 @@ public class u {
         }
     }
 }
-/* pattern 15 */
+/* 
+Pattern Name: Alternating Row Constant Pattern
+
+Input:
+5
+
+Output:
+12345
+11111
+12345
+22222
+33333
+*/
