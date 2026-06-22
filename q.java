@@ -16,4 +16,12 @@ public class q{
 
     }
 } }
-/* pattern - 11 */
+/* Pattern Name: Alphabet Matrix Pattern
+
+Input:
+C
+
+Output:
+A B C
+D E F
+G H I */
