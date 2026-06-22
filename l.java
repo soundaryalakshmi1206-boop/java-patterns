@@ -18,4 +18,9 @@ public class l{
 
     }
 } 
-/* pyramid */
+/* pyramid
+      *   
+     ***  
+    *****
+   *******
+   */
